@@ -1,10 +1,10 @@
 {
     "manifest_version": 3,
     "name": "sprintr",
-    "description": "Sprintr extension",
-    "version": "0.0.1",
+    "description": "A simple productivity timer",
+    "version": "0.0.2",
     "action": {
-      "default_popup": "popup/index.html",
+      "default_popup": "popup/popup.html",
       "default_icon": "hello_extensions.png"
     }
   }
