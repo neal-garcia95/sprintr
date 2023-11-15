@@ -1,0 +1,10 @@
+{
+    "manifest_version": 3,
+    "name": "sprintr",
+    "description": "Sprintr extension",
+    "version": "0.0.1",
+    "action": {
+      "default_popup": "popup/index.html",
+      "default_icon": "hello_extensions.png"
+    }
+  }
