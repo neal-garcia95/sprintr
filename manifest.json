@@ -1,6 +1,6 @@
 {
     "manifest_version": 3,
-    "name": "sprintr",
+    "name": "Sprintr",
     "description": "A simple productivity timer",
     "version": "0.0.2",
     "action": {
